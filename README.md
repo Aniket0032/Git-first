@@ -9,5 +9,5 @@ init command is used to make a new repo.
 git init.  
 git remote add origin <-link-> (to push a local repo to a git repo).  
 git remote -v. git branch (to verify remote). 
-git branch -m main. 
+git branch -M main. 
 
